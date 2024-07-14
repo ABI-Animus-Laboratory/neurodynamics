@@ -1,1 +1,1 @@
-Scripts and notebooks containg modelling and optimisation implementations for Maxwell's Master's thesis project.
+Scripts and notebooks containing modelling and optimisation components of Maxwell's Master's project.
