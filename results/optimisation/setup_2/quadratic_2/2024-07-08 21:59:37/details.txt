@@ -1,0 +1,40 @@
+Duration: 1488.7795767784119 seconds
+Number of Iterations Per Experiment: 3
+Number of Optimisation Steps: 2000
+Lambda: 0
+Alternate: False
+Cost Function: quadratic
+Cost Function at Start: 30772.133
+
+PARAMETER RANGES
+weights_range: [(-30, 30), (-20, 20), (-10, 10)]
+weights_change_range: [(-2, 2)]
+optimise_input_weights: [False]
+
+WEIGHTS 1 STATISTICS
+mean: 0.607
+median: 0.0
+std: 3.831
+min: -14.3
+max: 12.6
+
+WEIGHTS 2 STATISTICS
+mean: 0.607
+median: 0.0
+std: 3.831
+min: -14.3
+max: 12.6
+
+SPIKE WEIGHTS 1 STATISTICS
+mean: 6.371
+median: -4.971
+std: 71.043
+min: -9.371
+max: 465.869
+
+SPIKE WEIGHTS 2 STATISTICS
+mean: 6.371
+median: -4.971
+std: 71.043
+min: -9.371
+max: 465.869

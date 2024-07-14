@@ -1,0 +1,14 @@
+Best Results
+
+dataset_num = 5
+acceptance = 0.68
+silent_cutoff = 10
+interneuron_cutoff = 275
+separation_threshold = 65
+pf_area = 0.35
+
+Place cells : 39
+Interneurons : 18
+Silent Cells : 102
+
+{'Top Left': 7600, 'Top Right': 3280, 'Bottom Left': 3846, 'Bottom Right': 3262}
